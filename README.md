@@ -1,2 +1,2 @@
 # Cascading STS Translator
-Basic framework for Cascading STST application. Preliminary streamlit build...more to come.
+Basic framework for Cascading STST application. Preliminary streamlit build.
