@@ -1,2 +1,2 @@
-# Cascading-STS-Translator
-Speech-to-Speech translator using whisper-large-v3 and mms-tts
+# Cascading STS Translator
+Basic framework for Cascading STST application. Preliminary streamlit build...more to come.
